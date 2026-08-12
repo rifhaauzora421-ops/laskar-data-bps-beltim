@@ -1,0 +1,898 @@
+{
+  "111": {
+    "label": "Gender",
+    "keywords": [
+      "gender",
+      "kesetaraan gender",
+      "kesetaraan perempuan dan laki laki",
+      "kesetaraan laki laki dan perempuan",
+      "perempuan",
+      "wanita",
+      "laki laki",
+      "laki-laki",
+      "jenis kelamin",
+      "gender perempuan",
+      "gender laki laki",
+      "data gender",
+      "statistik gender",
+      "perempuan laki laki"
+    ]
+  },
+
+  "112": {
+    "label": "Geografi",
+    "keywords": [
+      "geografi",
+      "geografis",
+      "wilayah",
+      "luas wilayah",
+      "luas daerah",
+      "peta",
+      "letak geografis",
+      "letak wilayah",
+      "batas wilayah",
+      "batas daerah",
+      "kondisi geografis",
+      "topografi",
+      "wilayah belitung timur",
+      "geografi belitung timur"
+    ]
+  },
+
+  "113": {
+    "label": "Iklim",
+    "keywords": [
+      "iklim",
+      "cuaca",
+      "curah hujan",
+      "hujan",
+      "musim",
+      "suhu",
+      "temperatur",
+      "kelembapan",
+      "kelembaban",
+      "hari hujan",
+      "kecepatan angin",
+      "arah angin",
+      "iklim belitung timur",
+      "cuaca belitung timur"
+    ]
+  },
+
+  "114": {
+    "label": "Indeks Pembangunan Manusia",
+    "keywords": [
+      "ipm",
+      "data ipm",
+      "indeks pembangunan manusia",
+      "indeks pembangunan manusia ipm",
+      "human development index",
+      "nilai ipm",
+      "angka ipm",
+      "ipm belitung timur",
+      "indeks pembangunan manusia belitung timur",
+      "perkembangan ipm",
+      "pertumbuhan ipm",
+      "komponen ipm",
+      "dimensi ipm",
+      "peringkat ipm",
+      "ipm kecamatan"
+    ]
+  },
+
+  "115": {
+    "label": "Kemiskinan",
+    "keywords": [
+      "kemiskinan",
+      "data kemiskinan",
+      "penduduk miskin",
+      "jumlah penduduk miskin",
+      "persentase penduduk miskin",
+      "persentase kemiskinan",
+      "angka kemiskinan",
+      "tingkat kemiskinan",
+      "garis kemiskinan",
+      "batas garis kemiskinan",
+      "kedalaman kemiskinan",
+      "keparahan kemiskinan",
+      "indeks kedalaman kemiskinan",
+      "indeks keparahan kemiskinan",
+      "kemiskinan belitung timur",
+      "penduduk miskin belitung timur",
+      "data penduduk miskin",
+      "persentase penduduk miskin belitung timur"
+    ]
+  },
+
+  "116": {
+    "label": "Kependudukan",
+    "keywords": [
+      "kependudukan",
+      "data kependudukan",
+      "jumlah penduduk",
+      "penduduk",
+      "jumlah warga",
+      "warga",
+      "demografi",
+      "sensus",
+      "sensus penduduk",
+      "penduduk belitung timur",
+      "jumlah penduduk belitung timur",
+      "pertumbuhan penduduk",
+      "kepadatan penduduk",
+      "kepadatan penduduk belitung timur",
+      "komposisi penduduk",
+      "struktur penduduk",
+      "umur penduduk",
+      "usia penduduk",
+      "jenis kelamin penduduk",
+      "rasio jenis kelamin",
+      "migrasi penduduk",
+      "kelahiran",
+      "kematian penduduk"
+    ]
+  },
+
+  "117": {
+    "label": "Kesehatan",
+    "keywords": [
+      "kesehatan",
+      "data kesehatan",
+      "statistik kesehatan",
+      "kematian bayi",
+      "angka kematian bayi",
+      "kematian ibu",
+      "angka kematian ibu",
+      "gizi",
+      "status gizi",
+      "stunting",
+      "balita",
+      "bayi",
+      "rumah sakit",
+      "rs",
+      "puskesmas",
+      "jumlah puskesmas",
+      "tenaga kesehatan",
+      "dokter",
+      "bidan",
+      "perawat",
+      "fasilitas kesehatan",
+      "sarana kesehatan",
+      "kesehatan belitung timur"
+    ]
+  },
+
+  "118": {
+    "label": "Konsumsi dan Pengeluaran",
+    "keywords": [
+      "konsumsi",
+      "data konsumsi",
+      "pengeluaran",
+      "data pengeluaran",
+      "pengeluaran per kapita",
+      "pengeluaran rumah tangga",
+      "konsumsi rumah tangga",
+      "konsumsi per kapita",
+      "belanja rumah tangga",
+      "pengeluaran makanan",
+      "pengeluaran non makanan",
+      "konsumsi makanan",
+      "konsumsi non makanan",
+      "pola konsumsi",
+      "rata rata pengeluaran",
+      "rata-rata pengeluaran"
+    ]
+  },
+
+  "119": {
+    "label": "Pemerintahan",
+    "keywords": [
+      "pemerintahan",
+      "data pemerintahan",
+      "pemerintah",
+      "pemerintah daerah",
+      "aparatur",
+      "asn",
+      "aparatur sipil negara",
+      "pegawai negeri",
+      "pns",
+      "pegawai pemerintah",
+      "jumlah pns",
+      "jumlah asn",
+      "pegawai negeri sipil",
+      "perangkat daerah",
+      "desa",
+      "kelurahan",
+      "administrasi pemerintahan",
+      "pemerintahan belitung timur"
+    ]
+  },
+
+  "1110": {
+    "label": "Pendidikan",
+    "keywords": [
+      "pendidikan",
+      "data pendidikan",
+      "statistik pendidikan",
+      "sekolah",
+      "jumlah sekolah",
+      "sd",
+      "smp",
+      "sma",
+      "smk",
+      "perguruan tinggi",
+      "universitas",
+      "guru",
+      "murid",
+      "siswa",
+      "mahasiswa",
+      "angka melek huruf",
+      "rata rata lama sekolah",
+      "rata-rata lama sekolah",
+      "pendidikan terakhir",
+      "tingkat pendidikan",
+      "partisipasi sekolah",
+      "angka partisipasi sekolah",
+      "aps",
+      "angka partisipasi murni",
+      "apm",
+      "pendidikan belitung timur"
+    ]
+  },
+
+  "1111": {
+    "label": "Sosial Budaya",
+    "keywords": [
+      "sosial budaya",
+      "data sosial budaya",
+      "budaya",
+      "sosial",
+      "adat",
+      "adat istiadat",
+      "kesenian",
+      "seni",
+      "kebudayaan",
+      "kegiatan sosial",
+      "masyarakat",
+      "kehidupan sosial",
+      "sosial budaya belitung timur"
+    ]
+  },
+
+  "1112": {
+    "label": "Tenaga Kerja",
+    "keywords": [
+      "tenaga kerja",
+      "data tenaga kerja",
+      "ketenagakerjaan",
+      "pengangguran",
+      "tingkat pengangguran",
+      "tingkat pengangguran terbuka",
+      "tpt",
+      "lapangan kerja",
+      "angkatan kerja",
+      "penduduk bekerja",
+      "orang bekerja",
+      "pekerja",
+      "jumlah pekerja",
+      "kesempatan kerja",
+      "pasar kerja",
+      "tenaga kerja belitung timur",
+      "pengangguran belitung timur"
+    ]
+  },
+
+  "121": {
+    "label": "Inflasi",
+    "keywords": [
+      "inflasi",
+      "data inflasi",
+      "tingkat inflasi",
+      "angka inflasi",
+      "harga barang",
+      "harga",
+      "kenaikan harga",
+      "penurunan harga",
+      "ihk",
+      "indeks harga konsumen",
+      "harga konsumen",
+      "perkembangan harga",
+      "inflasi belitung timur"
+    ]
+  },
+
+  "122": {
+    "label": "Keuangan",
+    "keywords": [
+      "keuangan",
+      "data keuangan",
+      "keuangan daerah",
+      "apbd",
+      "anggaran pendapatan belanja daerah",
+      "pendapatan daerah",
+      "belanja daerah",
+      "pendapatan asli daerah",
+      "pad",
+      "realisasi apbd",
+      "penerimaan daerah",
+      "pengeluaran daerah",
+      "perbankan",
+      "bank",
+      "jumlah bank",
+      "kredit",
+      "simpanan",
+      "keuangan belitung timur"
+    ]
+  },
+
+  "123": {
+    "label": "Konstruksi",
+    "keywords": [
+      "konstruksi",
+      "data konstruksi",
+      "sektor konstruksi",
+      "bangunan",
+      "proyek konstruksi",
+      "jasa konstruksi",
+      "usaha konstruksi",
+      "perusahaan konstruksi",
+      "pekerjaan konstruksi",
+      "konstruksi belitung timur"
+    ]
+  },
+
+  "124": {
+    "label": "Pariwisata",
+    "keywords": [
+      "pariwisata",
+      "data pariwisata",
+      "wisata",
+      "tempat wisata",
+      "wisatawan",
+      "jumlah wisatawan",
+      "kunjungan wisatawan",
+      "wisatawan nusantara",
+      "wisatawan mancanegara",
+      "hotel",
+      "jumlah hotel",
+      "penginapan",
+      "akomodasi",
+      "objek wisata",
+      "destinasi wisata",
+      "pariwisata belitung timur",
+      "wisata belitung timur"
+    ]
+  },
+
+  "125": {
+    "label": "Produk Domestik Regional Bruto (Lapangan Usaha)",
+    "keywords": [
+      "pdrb",
+      "data pdrb",
+      "pdrb lapangan usaha",
+      "produk domestik regional bruto",
+      "produk domestik regional bruto lapangan usaha",
+      "pdrb menurut lapangan usaha",
+      "lapangan usaha",
+      "pertumbuhan ekonomi",
+      "ekonomi",
+      "pertumbuhan pdrb",
+      "struktur ekonomi",
+      "kontribusi sektor ekonomi",
+      "nilai pdrb",
+      "pdrb belitung timur",
+      "ekonomi belitung timur",
+      "sektor ekonomi",
+      "sektor lapangan usaha"
+    ]
+  },
+
+  "126": {
+    "label": "Produk Domestik Regional Bruto (Pengeluaran)",
+    "keywords": [
+      "pdrb pengeluaran",
+      "pdrb menurut pengeluaran",
+      "produk domestik regional bruto pengeluaran",
+      "komponen pdrb pengeluaran",
+      "pengeluaran pdrb",
+      "konsumsi rumah tangga pdrb",
+      "konsumsi pemerintah pdrb",
+      "pembentukan modal tetap bruto",
+      "pmTB",
+      "ekspor pdrb",
+      "impor pdrb",
+      "investasi pdrb",
+      "pdrb dari sisi pengeluaran",
+      "struktur pdrb pengeluaran"
+    ]
+  },
+
+  "131": {
+    "label": "Hortikultura",
+    "keywords": [
+      "hortikultura",
+      "data hortikultura",
+      "tanaman hortikultura",
+      "sayur",
+      "sayuran",
+      "buah",
+      "buah buahan",
+      "produksi sayur",
+      "produksi buah",
+      "tanaman sayuran",
+      "tanaman buah",
+      "luas panen hortikultura",
+      "produksi hortikultura",
+      "hortikultura belitung timur"
+    ]
+  },
+
+  "132": {
+    "label": "Perikanan",
+    "keywords": [
+      "perikanan",
+      "data perikanan",
+      "nelayan",
+      "ikan",
+      "produksi ikan",
+      "tangkapan ikan",
+      "hasil tangkapan",
+      "perikanan laut",
+      "perikanan tangkap",
+      "budidaya ikan",
+      "ikan laut",
+      "jumlah nelayan",
+      "produksi perikanan",
+      "perikanan belitung timur"
+    ]
+  },
+
+  "133": {
+    "label": "Perkebunan",
+    "keywords": [
+      "perkebunan",
+      "data perkebunan",
+      "tanaman perkebunan",
+      "kelapa sawit",
+      "sawit",
+      "karet",
+      "lada",
+      "produksi sawit",
+      "produksi kelapa sawit",
+      "produksi karet",
+      "produksi lada",
+      "luas perkebunan",
+      "luas tanaman perkebunan",
+      "perkebunan belitung timur"
+    ]
+  },
+
+  "134": {
+    "label": "Peternakan",
+    "keywords": [
+      "peternakan",
+      "data peternakan",
+      "ternak",
+      "hewan ternak",
+      "sapi",
+      "kambing",
+      "ayam",
+      "itik",
+      "bebek",
+      "produksi daging",
+      "produksi telur",
+      "jumlah ternak",
+      "populasi ternak",
+      "peternakan belitung timur"
+    ]
+  },
+
+  "135": {
+    "label": "Tanaman Pangan",
+    "keywords": [
+      "tanaman pangan",
+      "data tanaman pangan",
+      "padi",
+      "beras",
+      "produksi padi",
+      "produksi beras",
+      "jagung",
+      "produksi jagung",
+      "luas panen padi",
+      "luas panen jagung",
+      "produktivitas padi",
+      "produktivitas jagung",
+      "tanaman pangan belitung timur"
+    ]
+  },
+
+  "4": {
+    "label": "Publikasi",
+    "keywords": [
+      "publikasi",
+      "publikasi bps",
+      "publikasi statistik",
+      "publikasi data",
+      "buku publikasi",
+      "buku bps",
+      "buku statistik",
+      "unduh publikasi",
+      "download publikasi",
+      "unduh buku",
+      "download buku",
+      "mencari publikasi",
+      "cari publikasi",
+      "daftar publikasi",
+      "koleksi publikasi",
+      "dokumen publikasi",
+      "terbitan bps",
+      "terbitan statistik"
+    ]
+  },
+
+  "5": {
+    "label": "Berita Resmi Statistik (BRS)",
+    "keywords": [
+      "brs",
+      "berita resmi statistik",
+      "berita statistik",
+      "berita resmi bps",
+      "rilis data",
+      "rilis statistik",
+      "rilis bps",
+      "berita bps",
+      "berita resmi",
+      "statistik terbaru",
+      "rilis terbaru",
+      "berita statistik terbaru"
+    ]
+  },
+
+  "8": {
+    "label": "Tentang Kami",
+    "keywords": [
+      "tentang kami",
+      "tentang bps",
+      "profil bps",
+      "profil badan pusat statistik",
+      "alamat bps",
+      "alamat kantor bps",
+      "lokasi bps",
+      "kantor bps",
+      "kontak bps",
+      "kontak kantor bps",
+      "telepon bps",
+      "nomor telepon bps",
+      "email bps",
+      "instagram bps",
+      "facebook bps",
+      "youtube bps",
+      "media sosial bps",
+      "website bps",
+      "informasi bps",
+      "badan pusat statistik belitung timur",
+      "bps belitung timur"
+    ]
+  },
+
+  "7": {
+    "label": "Pengaduan Pelayanan Data",
+    "keywords": [
+      "pengaduan",
+      "pengaduan bps",
+      "pengaduan pelayanan",
+      "pengaduan pelayanan data",
+      "komplain",
+      "complaint",
+      "keluhan",
+      "keluhan pelayanan",
+      "keluhan data",
+      "lapor",
+      "laporan pelayanan",
+      "keberatan pelayanan",
+      "aduan",
+      "sampaikan keluhan",
+      "melaporkan pelayanan"
+    ]
+  },
+
+  "10": {
+    "label": "Ambil Nomor Antrean",
+    "keywords": [
+      "antrean",
+      "antrian",
+      "nomor antrean",
+      "nomor antrian",
+      "ambil nomor antrean",
+      "ambil nomor antrian",
+      "daftar antrean",
+      "daftar antrian",
+      "booking antrean",
+      "booking antrian",
+      "tiket antrean",
+      "tiket antrian",
+      "antrean pelayanan",
+      "antrian pelayanan",
+      "antrean bps",
+      "antrian bps"
+    ]
+  },
+
+  "99": {
+    "label": "Janji Temu Layanan",
+    "keywords": [
+      "janji temu",
+      "buat janji",
+      "bikin janji",
+      "membuat janji",
+      "reservasi",
+      "reservation",
+      "booking",
+      "buat jadwal",
+      "atur jadwal",
+      "jadwal layanan",
+      "temu layanan",
+      "pertemuan",
+      "jadwal pertemuan",
+      "janji dengan bps",
+      "janji temu bps",
+      "reservasi layanan"
+    ]
+  },
+
+  "2": {
+    "label": "Konsultasi Statistik (Admin)",
+    "keywords": [
+      "konsultasi statistik",
+      "konsultasi data",
+      "konsultasi dengan admin",
+      "konsultasi admin",
+      "tanya data",
+      "tanya tentang data",
+      "bertanya data",
+      "bertanya tentang data",
+      "ingin bertanya data",
+      "mau tanya data",
+      "mau bertanya data",
+      "tanya statistik",
+      "tanya ke admin statistik",
+      "bertanya ke admin statistik",
+      "konsultasi ke admin",
+      "tanya bps",
+      "bertanya ke bps",
+      "minta bantuan data",
+      "bantuan data"
+    ]
+  },
+
+  "9": {
+    "label": "Hubungi Admin",
+    "keywords": [
+      "hubungi admin",
+      "hubungi admin bps",
+      "chat admin",
+      "chat dengan admin",
+      "bicara dengan admin",
+      "bicara admin",
+      "ingin bicara dengan admin",
+      "mau bicara dengan admin",
+      "tanya admin",
+      "tanya ke admin",
+      "bertanya ke admin",
+      "hubungi cs",
+      "chat cs",
+      "customer service",
+      "cs bps",
+      "admin bps",
+      "kontak admin",
+      "kontak cs",
+      "minta admin",
+      "minta bantuan admin"
+    ]
+  },
+
+  "31": {
+    "label": "Rekrutmen Mitra",
+    "keywords": [
+      "rekrutmen mitra",
+      "rekrutmen mitra bps",
+      "lowongan mitra",
+      "lowongan kerja mitra",
+      "daftar mitra",
+      "pendaftaran mitra",
+      "jadi mitra bps",
+      "menjadi mitra bps",
+      "mau jadi mitra",
+      "ingin jadi mitra",
+      "rekrutmen",
+      "pendaftaran mitra bps",
+      "seleksi mitra",
+      "calon mitra"
+    ]
+  },
+
+  "32": {
+    "label": "Kerja Mitra",
+    "keywords": [
+      "kerja mitra",
+      "pekerjaan mitra",
+      "penawaran kerja mitra",
+      "tugas mitra",
+      "job mitra",
+      "pekerjaan mitra bps",
+      "tugas sebagai mitra",
+      "cara kerja mitra",
+      "pekerjaan petugas mitra",
+      "kegiatan mitra",
+      "honor mitra",
+      "upah mitra",
+      "bayaran mitra",
+      "masa kerja mitra"
+    ]
+  },
+
+  "61": {
+    "label": "Belitung Timur Dalam Angka",
+    "keywords": [
+      "belitung timur dalam angka",
+      "belitung timur dalam angka bps",
+      "beltim dalam angka",
+      "kabupaten dalam angka",
+      "kabupaten belitung timur dalam angka",
+      "publikasi belitung timur dalam angka",
+      "publikasi belitung timur",
+      "publikasi kabupaten belitung timur",
+      "buku belitung timur dalam angka",
+      "buku kabupaten belitung timur",
+      "data belitung timur dalam angka",
+      "statistik belitung timur dalam angka"
+    ]
+  },
+
+  "62": {
+    "label": "Kecamatan Dendang Dalam Angka",
+    "keywords": [
+      "dendang",
+      "dendang dalam angka",
+      "kecamatan dendang",
+      "kecamatan dendang dalam angka",
+      "publikasi dendang",
+      "publikasi kecamatan dendang",
+      "publikasi dendang dalam angka",
+      "publikasi kecamatan dendang dalam angka",
+      "buku dendang",
+      "buku kecamatan dendang",
+      "buku dendang dalam angka",
+      "data kecamatan dendang",
+      "data dendang",
+      "statistik kecamatan dendang",
+      "statistik dendang"
+    ]
+  },
+
+  "63": {
+    "label": "Kecamatan Simpang Pesak Dalam Angka",
+    "keywords": [
+      "simpang pesak",
+      "simpang pesak dalam angka",
+      "kecamatan simpang pesak",
+      "kecamatan simpang pesak dalam angka",
+      "publikasi simpang pesak",
+      "publikasi kecamatan simpang pesak",
+      "publikasi simpang pesak dalam angka",
+      "publikasi kecamatan simpang pesak dalam angka",
+      "buku simpang pesak",
+      "buku kecamatan simpang pesak",
+      "buku simpang pesak dalam angka",
+      "data kecamatan simpang pesak",
+      "data simpang pesak",
+      "statistik kecamatan simpang pesak",
+      "statistik simpang pesak"
+    ]
+  },
+
+  "64": {
+    "label": "Kecamatan Simpang Renggiang Dalam Angka",
+    "keywords": [
+      "simpang renggiang",
+      "simpang renggiang dalam angka",
+      "kecamatan simpang renggiang",
+      "kecamatan simpang renggiang dalam angka",
+      "publikasi simpang renggiang",
+      "publikasi kecamatan simpang renggiang",
+      "publikasi simpang renggiang dalam angka",
+      "publikasi kecamatan simpang renggiang dalam angka",
+      "buku simpang renggiang",
+      "buku kecamatan simpang renggiang",
+      "buku simpang renggiang dalam angka",
+      "data kecamatan simpang renggiang",
+      "data simpang renggiang",
+      "statistik kecamatan simpang renggiang",
+      "statistik simpang renggiang"
+    ]
+  },
+
+  "65": {
+    "label": "Kecamatan Gantung Dalam Angka",
+    "keywords": [
+      "gantung",
+      "gantung dalam angka",
+      "kecamatan gantung",
+      "kecamatan gantung dalam angka",
+      "publikasi gantung",
+      "publikasi kecamatan gantung",
+      "publikasi gantung dalam angka",
+      "publikasi kecamatan gantung dalam angka",
+      "buku gantung",
+      "buku kecamatan gantung",
+      "buku gantung dalam angka",
+      "data kecamatan gantung",
+      "data gantung",
+      "statistik kecamatan gantung",
+      "statistik gantung"
+    ]
+  },
+
+  "66": {
+    "label": "Kecamatan Manggar Dalam Angka",
+    "keywords": [
+      "manggar",
+      "manggar dalam angka",
+      "kecamatan manggar",
+      "kecamatan manggar dalam angka",
+      "publikasi manggar",
+      "publikasi kecamatan manggar",
+      "publikasi manggar dalam angka",
+      "publikasi kecamatan manggar dalam angka",
+      "buku manggar",
+      "buku kecamatan manggar",
+      "buku manggar dalam angka",
+      "data kecamatan manggar",
+      "data manggar",
+      "statistik kecamatan manggar",
+      "statistik manggar"
+    ]
+  },
+
+  "67": {
+    "label": "Kecamatan Damar Dalam Angka",
+    "keywords": [
+      "damar",
+      "damar dalam angka",
+      "kecamatan damar",
+      "kecamatan damar dalam angka",
+      "publikasi damar",
+      "publikasi kecamatan damar",
+      "publikasi damar dalam angka",
+      "publikasi kecamatan damar dalam angka",
+      "buku damar",
+      "buku kecamatan damar",
+      "buku damar dalam angka",
+      "data kecamatan damar",
+      "data damar",
+      "statistik kecamatan damar",
+      "statistik damar"
+    ]
+  },
+
+  "68": {
+    "label": "Kecamatan Kelapa Kampit Dalam Angka",
+    "keywords": [
+      "kelapa kampit",
+      "kelapa kampit dalam angka",
+      "kecamatan kelapa kampit",
+      "kecamatan kelapa kampit dalam angka",
+      "publikasi kelapa kampit",
+      "publikasi kecamatan kelapa kampit",
+      "publikasi kelapa kampit dalam angka",
+      "publikasi kecamatan kelapa kampit dalam angka",
+      "buku kelapa kampit",
+      "buku kecamatan kelapa kampit",
+      "buku kelapa kampit dalam angka",
+      "data kecamatan kelapa kampit",
+      "data kelapa kampit",
+      "statistik kecamatan kelapa kampit",
+      "statistik kelapa kampit"
+    ]
+  }
+}
