@@ -105,15 +105,20 @@
   },
 
   "116": {
-    "label": "Kependudukan",
+    "label": "Kependudukan dan Migrasi",
     "keywords": [
       "kependudukan",
+      "kependudukan dan migrasi",
       "data kependudukan",
+      "data kependudukan dan migrasi",
+      "statistik kependudukan",
+      "statistik kependudukan dan migrasi",
       "jumlah penduduk",
       "penduduk",
       "jumlah warga",
       "warga",
       "demografi",
+      "demografis",
       "sensus",
       "sensus penduduk",
       "penduduk belitung timur",
@@ -127,9 +132,16 @@
       "usia penduduk",
       "jenis kelamin penduduk",
       "rasio jenis kelamin",
+      "migrasi",
       "migrasi penduduk",
+      "perpindahan penduduk",
+      "urbanisasi",
       "kelahiran",
-      "kematian penduduk"
+      "angka kelahiran",
+      "kematian penduduk",
+      "angka kematian",
+      "penduduk menurut umur",
+      "penduduk menurut jenis kelamin"
     ]
   },
 
@@ -398,7 +410,7 @@
       "konsumsi rumah tangga pdrb",
       "konsumsi pemerintah pdrb",
       "pembentukan modal tetap bruto",
-      "pmTB",
+      "pmtb",
       "ekspor pdrb",
       "impor pdrb",
       "investasi pdrb",

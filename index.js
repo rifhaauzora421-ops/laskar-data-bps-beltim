@@ -486,7 +486,47 @@ async function tanganiPesan(msg) {
     return;
   }
 
+function isPermintaanAdmin(
+  pesan
+) {
 
+  const teks =
+    normalisasi(
+      pesan
+    );
+
+  const phrases = [
+    'hubungi admin',
+    'hubungi admin bps',
+    'chat admin',
+    'chat dengan admin',
+    'bicara dengan admin',
+    'bicara admin',
+    'ingin bicara dengan admin',
+    'mau bicara dengan admin',
+    'tanya admin',
+    'tanya ke admin',
+    'bertanya ke admin',
+    'minta admin',
+    'minta bantuan admin',
+    'hubungi cs',
+    'chat cs',
+    'customer service',
+    'kontak admin',
+    'kontak cs',
+    'konsultasi statistik',
+    'konsultasi data',
+    'konsultasi dengan admin'
+  ];
+
+  return phrases.some(
+    phrase =>
+      teks === phrase ||
+      teks.includes(
+        phrase
+      )
+  );
+}
   // =======================================================
   // COMMAND STOP
   // =======================================================
